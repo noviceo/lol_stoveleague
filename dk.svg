@@ -1,0 +1,38 @@
+
+<svg id="master-artboard" viewBox="0 0 674.89343 914.66681" version="1.1" x="0px" y="0px" width="674.89343" height="914.66681" xmlns="http://www.w3.org/2000/svg">
+  
+  <rect id="ee-background" x="-10.884103" y="-11.980241" width="696.6615" height="935.44464" style="fill:#4791ff;fill-opacity:0"></rect>
+  <defs id="defs25">
+    <style id="ee-google-fonts">@import url(https://fonts.googleapis.com/css?family=Audiowide:400);</style>
+    <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="1500" y1="1888.46" x2="1500" y2="257.43701">
+      <stop offset="0" style="stop-opacity:1;stop-color:#3E8A9B" id="stop4"></stop>
+      <stop offset="0.4" style="stop-opacity:1;stop-color:#51ABB2" id="stop6"></stop>
+      <stop offset="1" style="stop-opacity:1;stop-color:#64CCC9" id="stop8"></stop>
+    </linearGradient>
+    <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="2081.0801" y1="1552.71" x2="2081.0801" y2="593.185">
+      <stop offset="0" style="stop-opacity:1;stop-color:#3E8A9B" id="stop11"></stop>
+      <stop offset="0.388235" style="stop-opacity:1;stop-color:#51ABB2" id="stop13"></stop>
+      <stop offset="1" style="stop-opacity:1;stop-color:#64CCC9" id="stop15"></stop>
+    </linearGradient>
+    <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="918.91998" y1="1552.71" x2="918.92499" y2="593.185">
+      <stop offset="0" style="stop-opacity:1;stop-color:#3E8A9B" id="stop18"></stop>
+      <stop offset="0.380392" style="stop-opacity:1;stop-color:#51ABB2" id="stop20"></stop>
+      <stop offset="1" style="stop-opacity:1;stop-color:#64CCC9" id="stop22"></stop>
+    </linearGradient>
+  </defs>
+  <g id="_2969708876000" transform="matrix(0.32666671,0,0,0.32666671,-152.55335,-32.666671)">
+    <path d="m 467,698 v 1604 l 1033,598 1033,-598 V 698 L 1500,100 Z" class="fil0" style="fill:#000000" id="path27"></path>
+    <path d="m 580,2211 920,532 920,-532 V 789 L 2296,717 V 2139 L 1500,2598 704,2139 V 717 l -124,72 z" class="fil1" style="fill:#ffffff" id="path29"></path>
+    <g id="g35">
+      <g id="g33">
+        <path class="fil2" d="m 1575,2183 c 0,2 0,3 2,3 0,0 1,-1 2,-1 l 291,-189 c 5,-4 10,-5 17,-5 h 64 c 10,0 16,6 16,16 v 122 c 0,15 -3,23 -16,31 l -78,47 c -1,1 -2,1 -2,1 -1,0 -2,-1 -2,-4 v -142 c 0,-2 -1,-3 -2,-3 -1,0 -1,0 -2,1 l -213,138 c -6,4 -11,5 -16,5 h -141 c -10,0 -17,-6 -17,-16 v -176 c 0,-1 -1,-3 -1,-3 -1,0 -2,1 -3,1 l -140,85 c -2,0 -2,1 -2,2 0,1 0,1 1,2 l 101,100 c 1,1 2,3 2,4 0,1 -2,1 -3,1 h -91 c -7,0 -13,-1 -17,-5 l -60,-60 c -1,-1 -1,-1 -2,-1 -1,0 -1,0 -2,0 l -102,61 c -6,4 -10,5 -16,5 h -94 c -10,0 -16,-6 -16,-16 v -120 c 0,-15 3,-23 16,-31 l 78,-47 c 1,-1 2,-1 2,-1 2,0 2,1 2,4 v 160 c 0,2 1,3 2,3 0,0 1,-1 2,-1 l 264,-159 c 6,-4 10,-5 17,-5 h 142 c 10,0 17,7 17,17 z" style="fill:#ffffff;fill-rule:nonzero" id="path31"></path>
+      </g>
+    </g>
+    <g id="g43">
+      <path class="fil3" d="M 1133,1429 V 717 L 919,593 794,665 v 816 l 125,72 z m -214,-691 90,51 v 568 l -90,51 z" style="fill:url(#id2)" id="path37"></path>
+      <path d="m 1223,417 v 1311 l 277,160 277,-160 V 417 l -125,-72 v 1311 l -90,52 V 294 l -62,-37 -62,37 v 1414 l -90,-52 V 345 Z" class="fil4" style="fill:url(#id0)" id="path39"></path>
+      <path d="m 1867,717 v 712 l 214,124 125,-72 V 911 l -171,99 v 144 l 46,-26 v 280 l -90,-51 V 789 l 90,-51 v 141 l 125,-72 V 665 l -125,-72 z" class="fil5" style="fill:url(#id1)" id="path41"></path>
+    </g>
+  </g>
+  <path d="M -152.55335,-32.666671 H 827.44678 V 947.33346 h -980.00013 z" class="fil6" style="fill:none;stroke-width:0.326667" id="path46"></path>
+</svg>
